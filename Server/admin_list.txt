@@ -1,0 +1,1 @@
+[{"email":"kunduaniket7@gmail.com","verified":true,"name":"aniket kundu"},{"email":"xyz@gmail.com","verified":false,"name":""},{"email":"2005364@kiit.ac.in","verified":true,"name":"ANIKET KUNDU"},{"email":"abc@kiit.ac.in","verified":false,"name":""},{"email":"unevAdmin@yahoo.com","verified":false,"name":""}]
